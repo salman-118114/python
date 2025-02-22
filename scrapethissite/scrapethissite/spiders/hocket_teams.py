@@ -1,6 +1,5 @@
 import scrapy
 
-
 class HocketTeamsSpider(scrapy.Spider):
     name = "hocket_teams"
     allowed_domains = ["scrapethissite.com"]
